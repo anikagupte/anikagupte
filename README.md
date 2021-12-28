@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things STEM!
 - 🌱 I’m currently learning CS50X.
 - 💞️ I’m looking to collaborate on anyone about my age (I'm 12).
-- 📫 How to reach me is through github itself.
+- 📫 Best way to reach is me is through github (comment below).
 
 <!---
 anikagupte/anikagupte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
