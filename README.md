@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anikagupte
 - 👀 I’m interested in all things STEM!
-- 🌱 I’m currently learning CS50X and I'm on Lab 9!
-- 💞️ I’m looking to collaborate with anyone about my age (I'm 12).
+- 🌱 I’ve just completed CS50x Introduction to Computer Science!
+- 💞️ I’m looking to collaborate with anyone about my age (I'm 13).
 - 📫 Reach me through email: anikagupte@gmail.com
 
 <!---
