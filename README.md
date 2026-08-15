@@ -2,7 +2,7 @@
 I'm looking to study Computer Science at university
 and am aspiring for a career in software engineering.
 
-Check out: https://anikagupte.github.io/portfolio-website/
+Check out: anikagupte.com
 
 <!---
 anikagupte/anikagupte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
