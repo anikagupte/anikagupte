@@ -1,4 +1,4 @@
-👋 Hi, I’m @anikagupte, a Year 12 student.
+👋 Hi, I’m @anikagupte, a Year 13 student.
 I'm looking to study Computer Science at university
 and am aspiring for a career in software engineering.
 
